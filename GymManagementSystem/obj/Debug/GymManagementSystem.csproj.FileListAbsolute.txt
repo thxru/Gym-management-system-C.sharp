@@ -1,0 +1,64 @@
+G:\NSBM\C#\Final Project\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+G:\NSBM\C#\Final Project\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+G:\NSBM\C#\Final Project\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+G:\NSBM\C#\Final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csprojAssemblyReference.cache
+G:\NSBM\C#\Final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Home.resources
+G:\NSBM\C#\Final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+G:\NSBM\C#\Final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.cache
+G:\NSBM\C#\Final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.CoreCompileInputs.cache
+G:\NSBM\C#\Final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+G:\NSBM\C#\Final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
+G:\NSBM\C#\Final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Login.resources
+G:\NSBM\C#\Final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Accessories.resources
+G:\NSBM\C#\Final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Attendance.resources
+G:\NSBM\C#\Final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Customer.resources
+G:\NSBM\C#\Final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Instructor.resources
+G:\NSBM\C#\Final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Payement.resources
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csprojAssemblyReference.cache
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Accessories.resources
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Attendance.resources
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Customer.resources
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Instructor.resources
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Login.resources
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Home.resources
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.cache
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Payment.resources
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csprojAssemblyReference.cache
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Accessories.resources
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Attendance.resources
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Customer.resources
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Instructor.resources
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Login.resources
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Home.resources
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Payment.resources
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.cache
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+C:\Users\Pubz\Documents\GitHub\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
+F:\YEAR 1\SEMESTER 2\4.C#\C# final Project\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+F:\YEAR 1\SEMESTER 2\4.C#\C# final Project\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+F:\YEAR 1\SEMESTER 2\4.C#\C# final Project\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+F:\YEAR 1\SEMESTER 2\4.C#\C# final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csprojAssemblyReference.cache
+F:\YEAR 1\SEMESTER 2\4.C#\C# final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Accessories.resources
+F:\YEAR 1\SEMESTER 2\4.C#\C# final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Attendance.resources
+F:\YEAR 1\SEMESTER 2\4.C#\C# final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Customer.resources
+F:\YEAR 1\SEMESTER 2\4.C#\C# final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Instructor.resources
+F:\YEAR 1\SEMESTER 2\4.C#\C# final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Login.resources
+F:\YEAR 1\SEMESTER 2\4.C#\C# final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Home.resources
+F:\YEAR 1\SEMESTER 2\4.C#\C# final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Payment.resources
+F:\YEAR 1\SEMESTER 2\4.C#\C# final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+F:\YEAR 1\SEMESTER 2\4.C#\C# final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.cache
+F:\YEAR 1\SEMESTER 2\4.C#\C# final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.CoreCompileInputs.cache
+F:\YEAR 1\SEMESTER 2\4.C#\C# final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+F:\YEAR 1\SEMESTER 2\4.C#\C# final Project\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
